@@ -4,6 +4,7 @@ User churn analysis
 
 --Project 2--
 Make a dashboard to provide Senior manager with insights of Sales performance to plan market expanding strategy and make decisions on strategic product.
+
 --Final Project--
 Dataset: adventureworks2019 on Google Bigquery
 
